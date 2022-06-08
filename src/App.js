@@ -47,7 +47,7 @@ function App() {
   return (
     <Container className={classes.container}>
         <Card>
-          <h2 className={classes.title}>Generate Download & Scane QR Code with React js</h2>
+          <h2 className={classes.title}>Generate Download & Scan QR Code with React js</h2>
             <CardContent>
               <Grid container spacing = {2}>
                 <Grid item x1={4} lg={4} md={6} sm={12} xs={12}>
